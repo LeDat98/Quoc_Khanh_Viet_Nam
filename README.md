@@ -21,6 +21,6 @@ python quockhanh2-9.py
 
 Here’s a sample video for demonstration:
 
-[![Sample Video](images/image.png)]([https://www.youtube.com/watch?v=fE89E4V6zJM])
+[![Sample Video](images/image.png)](https://www.youtube.com/watch?v=fE89E4V6zJM)
 
 
